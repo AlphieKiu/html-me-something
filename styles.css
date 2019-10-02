@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+    color: darkslateblue
+}
+
+h1 {
+    color: powderblue;
+    background-color: darkgrey;
+}
+
+h2 {
+    color: darkgrey;
+    font-size: 1em;
+}
+
+ul {
+    color: darkslateblue;
+    font-size: 2 em;
+}
