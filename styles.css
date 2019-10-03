@@ -6,14 +6,42 @@ body {
 h1 {
     color: powderblue;
     background-color: darkgrey;
+    text-align: center;
+    font-size: 3em;
 }
 
 h2 {
-    color: darkgrey;
-    font-size: 1em;
+    color: darkslateblue;
+    font-size: 1.2em;
 }
 
 ul {
     color: darkslateblue;
-    font-size: 2 em;
+    margin: 30px;
+    padding: 70px 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+}
+
+img {
+    border-radius: 100px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    color: crimson;
+    margin-top: 100px;
+}
+
+.gray {
+    color: gray;
+}
+
+#special {
+    color: crimson;
 }
